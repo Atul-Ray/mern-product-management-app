@@ -5,7 +5,9 @@ This is a basic MERN application designed for managing products. The application
 
 ## Screenshots
 <img src="./screenshots/screenshot1.png" alt="UI Screenshot 1" width="300"/> 
-<img src="./screenshots/screenshot2.png" alt="UI Screenshot 2" width="300"/>## Features
+<img src="./screenshots/screenshot2.png" alt="UI Screenshot 2" width="300"/>
+
+## Features
 - **Create Product**: Add new products with name, price, and image URL.
 - **Delete Product**: Remove products from the list.
 - **Update Product**: Edit existing product details.
